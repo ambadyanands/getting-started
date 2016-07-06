@@ -13,6 +13,8 @@ Slack is the chat software we use for the majority of our communications.
 Please first [download](https://slack.com/downloads) the desktop client.
 You can also just use the [web client](https://slack.com/) if you prefer.
 
+Slack Channel: greyhatsuhm
+
 Note that you will need a hawaii.edu address to join the slack channel.
 
 ## 3. Join the Github Organization
@@ -29,15 +31,22 @@ We have created an organization to organize some of our assets, please ensure th
 If you are an absolute novice, here are some essential skills that you may need.
 
 ***Bash***
+
+[Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) is a command processor that typically runs in a text window, where the user types commands that cause actions.
+
 [Codecademy Bash Beginners Course](https://www.codecademy.com/learn/learn-the-command-line)
 
 ***Git***
+
 Git is a revision control tool we use to collaborate on projects and documents.
+
 [Codecademy Git Beginners Course](https://www.codecademy.com/learn/learn-git)
 
 ***Programming Language***
+
 Some examples: Ruby, Java, Python, C/C++.
 I recommend learning Python, but feel free to explore.
+
 [Codecademy Python Beginners Course](https://www.codecademy.com/learn/python)
 
 ## 6. Hone your Skills
