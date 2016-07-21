@@ -22,17 +22,7 @@ We have created an organization to organize some of our assets, please ensure th
 
 [github.com/uhmgreyhats](https://github.com/uhmgreyhats)
 
-## 4. Software
-
-Please install the following software:
-
-- Virtual Box
-- Git
-
-Google/youtube has ample instructions on how to accomplish this.
-Also feel free to contact the board if you need additional assistance.
-
-## 5. Basic Skills
+## 4. Basic Skills
 Here are some essential skills to help you get started.
 
 ***Bash***
