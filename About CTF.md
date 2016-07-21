@@ -12,7 +12,6 @@
 * [SecurityCTF](https://www.reddit.com/r/securityctf "SecurityCTF")
 
 ## Practise
-* [Hacker Experience](https://legacy.hackerexperience.com/ "Hacker Experience")
 * [HolidayHack](https://holidayhackchallenge.com/ "Holiday Hack")
 * [Practice CTF List](http://captf.com/practice-ctf/ "Practice CTF List / Permanant CTF List")
 * [Root Me](http://www.root-me.org/?lang=en "Root Me")
