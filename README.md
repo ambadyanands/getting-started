@@ -33,7 +33,7 @@ Google/youtube has ample instructions on how to accomplish this.
 Also feel free to contact the board if you need additional assistance.
 
 ## 5. Basic Skills
-If you are an absolute novice, here are some essential skills that you may need.
+Here are some essential skills to help you get started.
 
 ***Bash***
 
@@ -42,27 +42,26 @@ We use Bash terminal for nearly everything, so get comfortable with it.
 
 [Codecademy Bash Beginners Course](https://www.codecademy.com/learn/learn-the-command-line)
 
-***Git***
-
-Git is a revision control tool we use to collaborate on projects and documents.
-
-[Codecademy Git Beginners Course](https://www.codecademy.com/learn/learn-git)
-
 ***Programming Language***
 
 Learning the basics of at least one programming language is essential.
 C/C++ is the most common in hacker challenges, but Python is an excellent place to start.
 
+[C Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
+
 [Codecademy Python Beginners Course](https://www.codecademy.com/learn/python)
 
-## 6. Hone your Skills
-The field of cyber security is massive, and continuing to grow every day.
-Look into different fields of security and see what you might be interested in.
-We maintain a repository specifically to share our learning resources here:
+***Tools***
 
-[github.com/uhmgreyhats/learning-resources](https://github.com/uhmgreyhats/learning-resources)
+Know how tools work instead of just following 'scripts' for a spefic task to see theri full potential.
 
-Feel free to contribute to the repo if you find something interesting.
+[n00b_Cookbook](https://github.com/uhmgreyhats/getting-started/blob/master/n00b_Cookbook.md)
+
+***CTF***
+
+Capture the Flag is the game of hackers. Try to solve challenges, capture files, and plant back-doors. Though it seems vauge at first, a bit of reading will get you on the right track.
+
+[About CTF](https://github.com/uhmgreyhats/getting-started/blob/master/About%20CTF.md)
 
 ---
 
