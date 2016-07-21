@@ -25,12 +25,13 @@ We have created an organization to organize some of our assets, please ensure th
 ## 4. Basic Skills
 Here are some essential skills to help you get started.
 
-***Bash***
+***Command Line***
 
-[Bash](https://en.wikipedia.org/wiki/Bash_%28Unix_shell%29) is a command processor that typically runs in a text window, where the user types commands that cause actions.
-We use Bash terminal for nearly everything, so get comfortable with it.
+The command is what many hacker programs use for interacting with it them, or when gaining remote access to a system. So get comfortable with it.
 
 [Codecademy Bash Beginners Course](https://www.codecademy.com/learn/learn-the-command-line)
+
+[Windows Command Line](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
 
 ***Programming Language***
 
@@ -43,7 +44,7 @@ C/C++ is the most common in hacker challenges, but Python is an excellent place 
 
 ***Tools***
 
-Know how tools work instead of just following 'scripts' for a spefic task to see theri full potential.
+Know how tools work instead of just following 'scripts' for a spefic task so you can leverage their full potential.
 
 [n00b_Cookbook](https://github.com/uhmgreyhats/getting-started/blob/master/n00b_Cookbook.md)
 
