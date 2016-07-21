@@ -1,7 +1,7 @@
 # Getting Started with Grey Hats
 
 Welcome to Grey Hats at Manoa.
-This document serves as a document for getting started as a member with Grey Hats.
+This serves as a document for getting started as a member with Grey Hats.
 
 ---
 
