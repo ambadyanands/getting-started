@@ -6,12 +6,11 @@ This document serves as a document for getting started as a member with Grey Hat
 ---
 
 ## 1. Paperwork
-Please see any of the board members or Gerald about filling out the required paperwork for admission.
+Please see any board member or Gerald Lau about the required paperwork for admission.
 
 ## 2. Join Slack
-Slack is the chat software we use for the majority of our communications.
-Please first [download](https://slack.com/downloads) the desktop client.
-You can also just use the [web client](https://slack.com/) if you prefer.
+Slack is what we use for the majority of our communications.
+You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
 Slack Channel: ***greyhatsuhm***
 
@@ -52,23 +51,19 @@ Git is a revision control tool we use to collaborate on projects and documents.
 ***Programming Language***
 
 Learning the basics of at least one programming language is essential.
-Some examples include Ruby, Bash, Java, Python, and C/C++.
-If you can't decide on which language, Python is an excellent place to start.
+C/C++ is the most common in hacker challenges, but Python is an excellent place to start.
 
 [Codecademy Python Beginners Course](https://www.codecademy.com/learn/python)
 
 ## 6. Hone your Skills
 The field of cyber security is massive, and continuing to grow every day.
-Look into different fields of security and determine what you might be interested in.
+Look into different fields of security and see what you might be interested in.
 We maintain a repository specifically to share our learning resources here:
 
 [github.com/uhmgreyhats/learning-resources](https://github.com/uhmgreyhats/learning-resources)
 
-Poke around and learn what you can.
-Feel free to contribute to the repo should you find any additional resources.
+Feel free to contribute to the repo if you find something interesting.
 
 ---
 
-Welcome to Grey Hats.
-
-If you have any questions/comments/concerns/revisions to this document, please contact the board.
+If you have any questions, comments, concerns, or revisions to this document, please contact the board.
