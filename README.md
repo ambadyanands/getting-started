@@ -12,7 +12,7 @@ Please see any board member or Gerald Lau about the required paperwork for admis
 Slack is what we use for the majority of our communications.
 You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
-Slack Channel: ***greyhatsuhm***
+Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
 Note that you may need a hawaii.edu address to join the slack channel.
 
