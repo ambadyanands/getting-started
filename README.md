@@ -5,8 +5,8 @@ This serves as a document for getting started as a member with Grey Hats.
 
 ---
 
-## 1. Paperwork
-Please see any board member or Gerald Lau about the required paperwork for admission.
+## 1. Liability Waiver
+Talk to any board member or Gerald Lau for a copy. It needs to be completed before participating in any official event.
 
 ## 2. Join Slack
 Slack is what we use for the majority of our communications.
