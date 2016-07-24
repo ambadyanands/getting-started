@@ -12,3 +12,6 @@
  * [Penetration Testing Steps](https://mywebclasses.files.wordpress.com/2014/07/pentest.png?w=593 "Steps") (Image)
 2. [Network Monitoring: Security Onion](https://www.youtube.com/playlist?list=PLMN5wm-C5YjyieO63g8LbaiWTSJRj0DBe) (1 hour)
  * [Linux Perfomance](http://www.brendangregg.com/linuxperf.html)
+
+### Module 4: Operating Systems (N/A)
+1. [Linux Journey](https://linuxjourney.com/)
