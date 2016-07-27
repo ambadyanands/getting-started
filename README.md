@@ -26,13 +26,13 @@ We have created an organization to organize some of our assets, please ensure th
 
 ***Google Calendar***
 
-Click this [link](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) to view the calendar in a browser. [Heres](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) instructions on how to add someone elses calendar. Copy the following address to add ours.
+Check our [our](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
 
 https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
 ***Facebook Page***
 
-Like us on facebook to get updates to events as they happen.
+Like us on facebook for events invites and get updates as they happen.
 
 [Grey Hats at UHM](https://www.facebook.com/greyhatsuhm)
 
