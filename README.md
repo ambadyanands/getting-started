@@ -26,7 +26,7 @@ We have created an organization to organize some of our assets, please ensure th
 
 ***Google Calendar***
 
-Check our [our](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
+Check our [our](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) calendar in a browser, or use the address below to [add](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) it to yours.
 
 https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
