@@ -23,7 +23,7 @@ We have created an organization to organize some of our assets, please ensure th
 [github.com/uhmgreyhats](https://github.com/uhmgreyhats)
 
 ## 4. Add our calendar
-Click this [link](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) to view the calendar in a browser. Copy the following address to add it to your Google calendar.
+Click this [link](https://calendar.google.com/calendar/embed?src=greyhats%40hawaii.edu&ctz=Pacific/Honolulu) to view the calendar in a browser. [Heres](https://support.google.com/calendar/answer/37100?co=GENIE.Platform%3DDesktop&hl=en) instructions on how to add someone elses calendar. Copy the following address to add ours to your Google calendar.
 
 https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
