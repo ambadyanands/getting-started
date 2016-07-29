@@ -36,6 +36,10 @@ Like us on facebook for events invites and get updates as they happen.
 
 [Grey Hats at UHM](https://www.facebook.com/greyhatsuhm)
 
+***Mailchimp***
+
+Join our [mailing list](http://eepurl.com/b_M6-D) for department letated news.
+
 ## 5. Basic Skills
 Here are some essential skills to help you get started.
 
