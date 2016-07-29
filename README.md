@@ -60,18 +60,18 @@ C/C++ is the most common in hacker challenges, but Python is an excellent place 
 
 [Codecademy Python Beginners Course](https://www.codecademy.com/learn/python)
 
-***Tools***
+***Netowrking***
 
-Know how tools work instead of just following 'scripts' for a spefic task so you can leverage their full potential.
+Get comfortable with the basics of networking and how the internet works.
 
-[n00b_Cookbook](https://github.com/uhmgreyhats/getting-started/blob/master/n00b_Cookbook.md)
+[Networking Tutorial for Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
 
 ***CTF***
 
-Capture the Flag is the game of hackers. Try to solve challenges, capture files, and plant back-doors. Though it seems vauge at first, a bit of reading will get you on the right track.
+Capture the Flag is the game of hackers. Solve challenges, capture files, and plant back-doors. Though it seems vauge at first, a bit of reading will get you on the right track.
 
-[About CTF](https://github.com/uhmgreyhats/getting-started/blob/master/About%20CTF.md)
+[CTF Field Guide](https://trailofbits.github.io/ctf/)
 
 ---
 
-If you have any questions, comments, concerns, or revisions to this document, please contact the board.
+If you have any questions, comments, concerns, or revisions to this document, feel free to contact us.
