@@ -5,8 +5,8 @@ This serves as a document for getting started as a member with Grey Hats.
 
 ---
 
-## 1. Liability Waiver
-Talk to any board member or Gerald Lau for a copy. It needs to be completed before participating in any official event.
+## 1. Code of Conduct
+Before you can participate in any official events you'll need to do a bit of paperwork. Downlaoad, fill out, sign, and turn in our [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
 ## 2. Join Slack
 Slack is what we use for the majority of our communications.
