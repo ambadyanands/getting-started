@@ -66,6 +66,22 @@ Get comfortable with the basics of networking and how the internet works.
 
 [Networking Tutorial for Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
 
+[WiFi Networks for Beginners](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0RhAkn_rWmq6iH0rRsWcHJ)
+
+***Tools***
+
+You're only as good as the tools you use, and these tools are the building blocks of network security.
+
+[NMap](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
+
+[NetCat](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL)
+
+[WireShark](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)
+
+[Maltego](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1SRsVRHeWbAz7tBE-cBgIJ)
+
+[Metasploit](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F)
+
 ***CTF***
 
 Capture the Flag is the game of hackers. Solve challenges, capture files, and plant back-doors. Though it seems vauge at first, a bit of reading will get you on the right track.
