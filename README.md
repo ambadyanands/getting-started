@@ -8,7 +8,10 @@ This serves as a document for getting started as a member with Grey Hats.
 ## 1. Code of Conduct
 Before you can participate in any official events you'll need to do a bit of paperwork. Downlaoad, fill out, sign, and turn in our [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
-## 2. Join Slack
+## 2. Regular Meeting Time
+For Fall 2016, we meet every Monday 4:30pm at Keller 105. Go through the double doors on the first floor. It'll be the last door on the right. If no one answers when you knock, then we aren't in yet.
+
+## 3. Join Slack
 Slack is what we use for the majority of our communications.
 You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
@@ -16,13 +19,13 @@ Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
 Note that you may need a hawaii.edu address to join the slack channel.
 
-## 3. Join the Github Organization
+## 4. Join the Github Organization
 Some of the materials/projects we work on will be hosted on Github.
 We have created an organization to organize some of our assets, please ensure that you are a member here:
 
 [github.com/uhmgreyhats](https://github.com/uhmgreyhats)
 
-## 4. Events
+## 5. Events
 
 ***Google Calendar***
 
@@ -40,7 +43,7 @@ Like us on facebook for events invites and get updates as they happen.
 
 Join our [mailing list](http://eepurl.com/b_M6-D) for department letated news.
 
-## 5. Basic Skills
+## 6. Basic Skills
 Here are some essential skills to help you get started.
 
 ***Command Line***
