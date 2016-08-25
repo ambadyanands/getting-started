@@ -11,13 +11,15 @@ Before you can participate in any official events you'll need to do a bit of pap
 ## 2. Regular Meeting Time
 For Fall 2016, we meet every Monday 4:30pm at Keller 105. Go through the double doors on the first floor. It'll be the last door on the right. If no one answers when you knock, then we aren't in yet.
 
-## 3. Join Slack
+## 3. Join Slack and Mailing List
 Slack is what we use for the majority of our communications.
 You can [download](https://slack.com/downloads) the desktop client or use the [web app](https://slack.com/).
 
 Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
 Note that you may need a hawaii.edu address to join the slack channel.
+
+Also, you can join out mailing list [here](http://eepurl.com/ccSw3r)
 
 ## 4. Join the Github Organization
 Some of the materials/projects we work on will be hosted on Github.
