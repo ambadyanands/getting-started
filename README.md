@@ -9,7 +9,7 @@ This serves as a document for getting involved.
 Before you can participate in any official events you'll need to do a bit of paperwork. Downlaoad, fill out, sign, and turn in our [Code of Conduct](https://github.com/uhmgreyhats/getting-started/blob/master/Grey%20Hats%20Computer%20Security%20and%20Ethics%20Agreement.docx) form to [Gerald Lau](glau@hawaii.edu).
 
 ## 2. Regular Meeting Time
-For Fall 2016, we meet every Monday 4:30pm at Keller 105, exluding holidays. Go through the double doors on the first floor. It'll be the last door on the right. If no one answers when you knock, then we're not there yet.
+For Fall 2016, we meet every Monday 4:30pm at Keller 105, exluding holidays. Go through the double doors on the first floor. It'll be the last door on the right. If the door isn't open, knock. If no one answers, we're not there yet.
 
 ## 3. Join Slack
 Slack is what we use for the majority of our communications.
@@ -17,10 +17,10 @@ You can [download](https://slack.com/downloads) the desktop client or use the [w
 
 Slack Channel: [***greyhatsuhm***](https://greyhatsuhm.slack.com/)
 
-You need a hawaii.edu address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
+You'll need a hawaii.edu email address to join on your own, but you can [email](greyhats@hawaii.edu) us for an invitation if you don't have one.
 
 ## 4. Join the Github Organization
-Some of the materials/projects we work on will be hosted on Github. We have created an organization to organize some of our assets.
+Some of the materials and projects we work on will be hosted on Github. We have created an organization to organize some of our assets.
 
 [github.com/uhmgreyhats](https://github.com/uhmgreyhats)
 
@@ -34,20 +34,20 @@ https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
 ***Facebook Page***
 
-Like us on facebook for events invites, get updates as they happen, and to spread the word to anyone you know who might be interested.
+Like us on facebook for events invites, get updates as they happen, and to help spread the word .
 
 [Grey Hats at UHM](https://www.facebook.com/greyhatsuhm)
 
 ***Mailchimp***
 
-Join our [mailing list](http://eepurl.com/ccSw3r) for bi-weekly newsletters
+Join our [mailing list](http://eepurl.com/ccSw3r) for regular newsletters
 
 ## 6. Basic Skills
 The following are some essential skills to help you get started.
 
 ***Command Line***
 
-The command line is what many hackers use to interact with programs, so get comfortable with it.
+The command line is what hackers use to interact with programs, so get comfortable with it.
 
 [Codecademy Bash Beginners Course](https://www.codecademy.com/learn/learn-the-command-line)
 
@@ -72,21 +72,21 @@ Get familiar with the basics of networking and how the internet works.
 
 ***Tools***
 
-You're only as good as the tools you know, and these tools are the building blocks of network security.
+Kali Linux is the quintessential hacker distrobution. Though it can be installed nativley, a [live boot USB stick](http://docs.kali.org/downloading/kali-linux-live-usb-install) is best.
+
+[Kali Linux](https://www.kali.org/downloads/)
+
+You're only as good as the tools you know, and these tools are the foundations of network security.
 
 [NMap](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
 
-[NetCat](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1v-RQ8rAftvqKawXQR87eL)
-
 [WireShark](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)
-
-[Maltego](https://www.youtube.com/playlist?list=PLW5y1tjAOzI1SRsVRHeWbAz7tBE-cBgIJ)
 
 [Metasploit](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F)
 
 ***Hacking and CTF***
 
-Being a hacker isn't about stealing everythign and causing chaos, but about solving interesting challenges and avoiding monotony. The following reading will give you the right mindset when approchaing challenges.
+Being a hacker isn't about stealing everythign and causing chaos, but about solving challenging problems in interesting ways. The following reading give you the right mindset.
 
 [How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
