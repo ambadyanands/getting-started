@@ -34,7 +34,7 @@ https://calendar.google.com/calendar/ical/greyhats%40hawaii.edu/public/basic.ics
 
 ***Facebook Page***
 
-Like us on facebook for events invites, get updates as they happen, and to help spread the word .
+Like us on facebook for events invites, get updates as they happen, and to help spread the good word.
 
 [Grey Hats at UHM](https://www.facebook.com/greyhatsuhm)
 
@@ -44,6 +44,12 @@ Join our [mailing list](http://eepurl.com/ccSw3r) for regular newsletters
 
 ## 6. Basic Skills
 The following are some essential skills to help you get started.
+
+***How to Become a Hacker***
+
+Being a hacker isn't about stealing everything and causing chaos, but about solving challenging problems in interesting ways. The following short video will give you the right mindset.
+
+[How To Become A Hacker](https://youtu.be/tlezBUdD53w)
 
 ***Command Line***
 
@@ -56,7 +62,7 @@ The command line is what hackers use to interact with programs, so get comfortab
 ***Programming Language***
 
 Learning the basics of at least one programming language is essential.
-C/C++ is the most common in hacker challenges, but Python is an excellent place to start.
+C/C++ is common in hacker challenges, but Python is an excellent place to start.
 
 [C Tutorial](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSaXCpKS395wbCcmsmgRea7)
 
@@ -68,31 +74,15 @@ Get familiar with the basics of networking and how the internet works.
 
 [Networking Tutorial for Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
 
-[WiFi Networks for Beginners](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0RhAkn_rWmq6iH0rRsWcHJ)
+***LinuX***
 
-***Tools***
-
-Kali Linux is the quintessential hacker distrobution. Though it can be installed nativley, a [live boot USB stick](http://docs.kali.org/downloading/kali-linux-live-usb-install) is best.
+There are a lot of Linux variations out there, but Kali Linux is the quintessential hacker distrobution. Though it can be installed nativley, a [live boot USB stick](http://docs.kali.org/downloading/kali-linux-live-usb-install) is best.
 
 [Kali Linux](https://www.kali.org/downloads/)
 
-You're only as good as the tools you know, and these tools are the foundations of network security.
+***CTF***
 
-[NMap](https://www.youtube.com/playlist?list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO)
-
-[WireShark](https://www.youtube.com/playlist?list=PLW5y1tjAOzI30OkWG_rhUstdJTk1FgU2W)
-
-[Metasploit](https://www.youtube.com/playlist?list=PLW5y1tjAOzI3n4KRN_ic8N8Qv_ss_dh_F)
-
-***Hacking and CTF***
-
-Being a hacker isn't about stealing everythign and causing chaos, but about solving challenging problems in interesting ways. The following reading give you the right mindset.
-
-[How To Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html)
-
-Capture the Flag is the game of hackers. Solve challenges, capture files, and plant back-doors. Though it seems vauge at first, a bit of reading will get you on the right track.
-
-[CTF Field Guide](https://trailofbits.github.io/ctf/)
+Capture the Flag is the game of hackers. No one could write an overall comprehensive guide, but Check out [Practice CTF List](https://captf.com/practice-ctf/) for some challenges to help you get started.
 
 ---
 
