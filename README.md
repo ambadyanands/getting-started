@@ -80,9 +80,10 @@ There are a lot of Linux variations out there, but Kali Linux is the quintessent
 
 [Kali Linux](https://www.kali.org/downloads/)
 
-***CTF***
+***Now What?***
 
-Capture the Flag is the game of hackers. No one could write an overall comprguide, but Check out [Practice CTF List](https://captf.com/practice-ctf/) for challenges, and these [tools](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) to help you complete them.
+Capture the Flag is the game of hackers. Check out [this](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) article to find websites to practice at, and see what tools you'll need to succeed.
+
 
 
 ---
