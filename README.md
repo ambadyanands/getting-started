@@ -74,11 +74,11 @@ Get familiar with the basics of networking and how the internet works.
 
 [Networking Tutorial for Beginners](https://www.youtube.com/watch?v=xpXhudbsrr8)
 
-***LinuX***
+***Linux***
 
-There are a lot of Linux variations out there, but Kali Linux is the quintessential hacker distrobution. Though it can be installed nativley, a [live boot USB stick](http://docs.kali.org/downloading/kali-linux-live-usb-install) is best.
+Linux is the quintessential hacker operating system. There are a lot of distributions, though [Kali](https://www.kali.org/downloads/) has a lot of bells and whistles, [Ubuntu](http://www.ubuntu.com/desktop) is a good to one to get your feet wet with.
 
-[Kali Linux](https://www.kali.org/downloads/)
+[Linux Journey](linuxjourney.com)
 
 ***Now What?***
 
