@@ -78,7 +78,7 @@ Get familiar with the basics of networking and how the internet works.
 
 Linux is the quintessential hacker operating system. There are a lot of distributions, though [Kali](https://www.kali.org/downloads/) has a lot of bells and whistles, [Ubuntu](http://www.ubuntu.com/desktop) is a good to one to get your feet wet with.
 
-[Linux Journey](linuxjourney.com)
+Check out [Linux Journey](linuxjourney.com) to learn about the operating system in detail, and use [ANCL mirror's](http://mirror.ancl.hawaii.edu/) hosted in the Pacific Ocean Science and Technology building for faster downlaods of OS images and repositories.
 
 ***Now What?***
 
