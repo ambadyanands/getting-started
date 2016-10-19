@@ -82,7 +82,7 @@ Check out [Linux Journey](linuxjourney.com) to learn about the operating system 
 
 ***Now What?***
 
-Capture the Flag is the game of hackers. Check out [this](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) article to find websites to practice at, and see what tools you'll need to succeed.
+Capture the Flag is the game of hackers. Check out [this](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) article and [this](http://www.amanhardikar.com/mindmaps/Practice.html) site to find websites to practice at, and see what tools you'll need to succeed.
 
 
 
